@@ -57,30 +57,25 @@
 					<div class="card-header">
 						ipsum
 					</div>
-					<ul class="list-group list-group-flush">
-						<li class="list-group-item">Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
-							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.</li>
-					</ul>
+						<div class="card-body">
+							Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.</div>
 				</div>
 
 				<div class="card col-sm-3 border border-danger rounded">
 					<div class="card-header">
 						===
 					</div>
-					<ul class="list-group list-group-flush">
-						<li class="list-group-item">Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
-							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.</li>
-					</ul>
+						<div class="card-body">Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.</div>
 				</div>
 
 				<div class="card col-sm-3 border border-warning rounded">
 					<div class="card-header float-*-left">
 						<3
 					</div>
-					<ul class="list-group list-group-flush">
-						<li class="list-group-item">Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
-							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified</li>
-					</ul>
+						<div class="card-body">Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+							Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified</div>
 				</div>
 			</div>
 		</section>
