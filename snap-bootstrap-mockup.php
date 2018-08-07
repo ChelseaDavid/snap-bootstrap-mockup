@@ -84,6 +84,29 @@
 				</div>
 			</div>
 		</section>
+		<section class="container">
+			<div class="row">
 
+			<div class="col-sm-4">
+				<p>Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+					Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified. Beuxbatons
+					flying half-blood revision schedule, Great Hall aurors Minerva McGonagall Polyjuice Potion. Restricted
+					section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs.</p>
+			</div>
+
+				<div class="col-sm-4">
+					<p>Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+						Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified. Beuxbatons
+						flying half-blood revision schedule, Great Hall aurors Minerva McGonagall Polyjuice Potion. Restricted
+						section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs.</p>
+				</div>
+
+				<div class="col-sm-4">
+					<p>Prefect’s bathroom Trelawney veela squashy armchairs, SPEW: Gamp’s Elemental
+						Law of Transfiguration. Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified. Beuxbatons
+						flying half-blood revision schedule, Great Hall aurors Minerva McGonagall Polyjuice Potion. Restricted
+						section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs.</p>
+				</div>
+			</div>
 	</body>
 </html>
